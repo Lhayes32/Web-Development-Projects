@@ -1,6 +1,6 @@
-#Web Development Projects
+# Web Development Projects
 
-##Naming Scheme
+## Naming Scheme
 A typical name for a folder in this repository will follow this scheme
 
 >{'WD' | 2}{PROJECT_TYPE | 2}{PROJECT_LANG | 1}{PROJECT_NUM | 3}
@@ -19,7 +19,7 @@ In some cases there will be a '_IP' at the end of a folder. This means it is cur
 - P: Python
 - F: Flutter
 
-##Archive
+## Archive
 
 - **WDPEP001**: A simple login/logout website involving database management, flask and Python.
 - **WDPEF002**: A time based app using Flutter. 
